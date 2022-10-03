@@ -1,0 +1,41 @@
+{
+	"storyName": "Virus_detected-shutting down system immidiatl37",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "hex banner",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"last dunk",
+			"hex",
+			[
+				46,
+				33,
+				33
+			]
+		],
+		[
+			"unknown virus",
+			"hex",
+			[
+				46,
+				33,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Hex's week"
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "Y",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "hex",
+	"freeplayColor": [
+		255,
+		244,
+		99
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"sponge-virus",
+			"hex",
+			[
+				206,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "freeplay"
+}

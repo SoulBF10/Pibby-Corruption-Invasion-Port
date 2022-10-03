@@ -1,0 +1,50 @@
+{
+	"storyName": "frustrated dinner",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tabi banner",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"shell",
+			"tabi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"corrupted-heart",
+			"tabi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Acrimony",
+			"tabi",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tabi",
+	"hiddenUntilUnlocked": false
+}

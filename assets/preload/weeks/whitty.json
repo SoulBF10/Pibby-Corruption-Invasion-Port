@@ -1,0 +1,50 @@
+{
+	"storyName": "Backalley survival",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "whitty banner",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"lofright",
+			"whitty",
+			[
+				33,
+				33,
+				33
+			]
+		],
+		[
+			"unrestrained",
+			"whitty",
+			[
+				33,
+				33,
+				33
+			]
+		],
+		[
+			"ignited",
+			"whitty",
+			[
+				33,
+				33,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "whitty"
+}
