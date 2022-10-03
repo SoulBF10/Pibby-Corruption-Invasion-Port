@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "111 idle"
+		},
+		{
+			"offsets": [
+				1,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "111 sing_left0"
+		},
+		{
+			"offsets": [
+				-12,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "111 sing_down0"
+		},
+		{
+			"offsets": [
+				-48,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "111 sing_up0"
+		},
+		{
+			"offsets": [
+				-46,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "111 sing_right0"
+		},
+		{
+			"offsets": [
+				-8,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "111 sing_left_miss"
+		},
+		{
+			"offsets": [
+				-23,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "111 sing_down_miss"
+		},
+		{
+			"offsets": [
+				-30,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "111 sing_up_miss"
+		},
+		{
+			"offsets": [
+				-29,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "111 sing_right_miss"
+		},
+		{
+			"offsets": [
+				-4,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "111 hey"
+		},
+		{
+			"offsets": [
+				-36,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "111 hurt"
+		},
+		{
+			"offsets": [
+				11,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "111 scared"
+		},
+		{
+			"offsets": [
+				-8,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "111 dodge"
+		},
+		{
+			"offsets": [
+				349,
+				251
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "111 attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/111",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "greg",
+	"flip_x": true,
+	"healthbar_colors": [
+		136,
+		0,
+		27
+	],
+	"camera_position": [
+		160,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

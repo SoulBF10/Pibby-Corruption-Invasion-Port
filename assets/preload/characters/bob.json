@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				190,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bob left"
+		},
+		{
+			"offsets": [
+				50,
+				-290
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bob down"
+		},
+		{
+			"offsets": [
+				50,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bob up"
+		},
+		{
+			"offsets": [
+				50,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bob right"
+		},
+		{
+			"offsets": [
+				501,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "bob idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bob pibby",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

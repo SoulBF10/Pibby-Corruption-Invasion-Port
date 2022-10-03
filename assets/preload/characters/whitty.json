@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				347,
+				399
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-16,
+				286
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-36,
+				497
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-46,
+				322
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				210,
+				540
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				370,
+				380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Alt Left"
+		},
+		{
+			"offsets": [
+				70,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Alt Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				441
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Alt Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				229
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Alt Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Corrupted_Whitty_Complete",
+	"position": [
+		-330,
+		0
+	],
+	"healthicon": "whitty",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		34,
+		69
+	],
+	"camera_position": [
+		0,
+		-330
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
